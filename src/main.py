@@ -68,3 +68,4 @@ for idx, track in enumerate(results['tracks']['items']):
     print(f"Tempo: {tempo}")
     print(f"Time Signature: {time_signature}")
     print(f"Track Genre: {track_genre}")
+
